@@ -1,5 +1,4 @@
 (native-instruments-traktor-mx2)=
-
 # Native Instruments Traktor MX2
 
 
@@ -29,12 +28,13 @@ The Mixxx mapping for the MX2 is designed to mirror Native Instruments' original
 
 Please refer to the sections below for the exact mapping of all elements:
 
-- [Effect Units](#effect-units)
-- [Overview](#overview)
-- [Channel Controls (1-30)](#channel-controls-1-30)
-- [Multi-Function Controls](#multi-function-controls)
-- [Mixer Controls (31-38)](#mixer-controls-31-38)
+- {ref}`Effect Units <native-instruments-traktor-mx2-effect-units>`
+- {ref}`Overview <native-instruments-traktor-mx2-overview>`
+- {ref}`Channel Controls (1-30) <native-instruments-traktor-mx2-channel-controls>`
+- {ref}`Multi-Function Controls <native-instruments-traktor-mx2-multi-function-controls>`
+- {ref}`Mixer Controls (31-38) <native-instruments-traktor-mx2-mixer-controls>`
 
+(native-instruments-traktor-mx2-effect-units)=
 ### Effect Units
 
 
@@ -45,6 +45,7 @@ The effect units support cycling through four distinct modes by pressing {kbd}`S
 
 In all modes, {kbd}`SHIFT` + Effect Button cycles the selected effect in the button's effect slot. The `Mix` knob (leftmost) controls the 'dry/wet' parameter for the whole unit.
 
+(native-instruments-traktor-mx2-overview)=
 ### Overview
 
 
@@ -56,6 +57,7 @@ In all modes, {kbd}`SHIFT` + Effect Button cycles the selected effect in the but
 Native Instruments Traktor MX2 (schematic view)
 ```
 
+(native-instruments-traktor-mx2-channel-controls)=
 ### Channel Controls (1-30)
 
 
@@ -98,6 +100,7 @@ Native Instruments Traktor MX2 (schematic view)
 | **29**. Headphone button | Toggle headphone cueing | |
 | **30**. Volume fader | Adjust the channel volume fader for the corresponding deck | |
 
+(native-instruments-traktor-mx2-multi-function-controls)=
 ### Multi-Function Controls
 
 
@@ -117,6 +120,7 @@ Native Instruments Traktor MX2 (schematic view)
 | **19**. Number buttons 1-4 | **Hotcue Mode**: If hotcue is set, seek the player to hotcue position. Otherwise set hotcue at current position<br><br>**Stems Mode**: Toggle mute stem 1-4<br><br>**Sampler Mode**: Toggle the playback state of the sampler (sampler 1-4 on channel 1, sampler 5-8 on channel 2)<br><br>**Loops Mode**: Enable a rolling loop of 1/16, 1/8, 1/4, 1/2 beats while being held | Clear the hotcue<br><br>Enable default loop instead |
 | **20**. Number buttons 5-8 | **Hotcue Mode**: like **19**<br><br>**Stems Mode**: Hold to use stems modifier functions (see **16**, **18**)<br><br>**Sampler Mode**: Hold to use sampler modifier functions (see **5**, **16**, **17**, **18**)<br>(sampler 1-4 on channel 1, sampler 5-8 on channel 2)<br><br>**Loops Mode**: Enable a rolling loop of 1, 2, 4, 8 beats while being held | like **19**<br><br>Enable a default loop instead |
 
+(native-instruments-traktor-mx2-mixer-controls)=
 ### Mixer Controls (31-38)
 
 
